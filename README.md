@@ -9,12 +9,19 @@
 [![Node.js](https://img.shields.io/badge/Node.js-v18+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-4.21-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-Cloud-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Netlify](https://img.shields.io/badge/Frontend-Live_on_Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://campusischaotic.netlify.app)
+[![Render](https://img.shields.io/badge/Backend-Live_on_Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://campus-connect-api-iec5.onrender.com/api/health)
 [![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg?style=for-the-badge)](https://opensource.org/licenses/ISC)
 
 <br/>
 
 **Campus Connect** is a full-stack MERN web application engineered to bridge communication gaps in universities. It centralizes academic resource sharing, lost-and-found recovery, peer discussions, and official administrative announcements into a single responsive portal.
+
+### 🌐 Live Deployment
+- **Live Web Portal:** [https://campusischaotic.netlify.app](https://campusischaotic.netlify.app)
+- **Production REST API:** [https://campus-connect-api-iec5.onrender.com/api](https://campus-connect-api-iec5.onrender.com/api)
+- **API Health Check:** [https://campus-connect-api-iec5.onrender.com/api/health](https://campus-connect-api-iec5.onrender.com/api/health)
 
 [Explore Features](#-key-features) • [System Architecture](#-system-architecture) • [API Documentation](#-rest-api-documentation) • [Installation](#-quick-start) • [Live Demo](#-evaluator-demo-credentials)
 
